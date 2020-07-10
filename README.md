@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my spare time projects space 🧑🏽‍💻 
 
 <!--
 **jingx23/jingx23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
