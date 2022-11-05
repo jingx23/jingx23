@@ -1,7 +1,7 @@
 ### Welcome to my spare time projects 🧑🏽‍💻 
 - 🌱 I’m currently learning SwiftUI
 - 🤓 I´m interested in the whole Swift ecosystem (Swift, SwiftUI, Server-Side Swift), Software Architecture, IoT Projects, macOS, Linux and backend things
-- 📫 How to reach me: <a href="https://twitter.com/jingx23">@jingx23 on Twitter</a>
+- 📫 How to reach me: <a href="https://twitter.com/jingx23">@jingx23 on Twitter</a> or <a rel="me" href="https://mastodon.social/@jingx23">on Mastodon</a> 
 <!--
 **jingx23/jingx23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
